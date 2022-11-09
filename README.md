@@ -1,3 +1,8 @@
+Hey, i am Paulo Potter Marchi! 👋
+
+Computer scientist  at UAM.
+
+
 const PauloPotter = {
   pronuns: "he" | "his",
   languages: [English, Portuguese, Spanish],
